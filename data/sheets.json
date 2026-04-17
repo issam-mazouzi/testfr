@@ -1,0 +1,77 @@
+{
+  "Principes et valeurs": {
+    "icon": "🗽",
+    "color": "#002395",
+    "bg": "#EEF2FF",
+    "points": [
+      "La devise est : <strong>Liberté, Égalité, Fraternité</strong>",
+      "Drapeau : <strong>bleu, blanc, rouge</strong> (tricolore)",
+      "Hymne national : <strong>La Marseillaise</strong>",
+      "Symbole : <strong>Marianne</strong>",
+      "<strong>Laïcité</strong> = séparation des Églises et de l'État (loi de 1905)",
+      "La France est une République <strong>indivisible, laïque, démocratique et sociale</strong>",
+      "14 juillet = prise de la <strong>Bastille (1789)</strong>",
+      "Insulter publiquement quelqu'un en raison de son origine est <strong>interdit par la loi</strong>"
+    ]
+  },
+  "Système institutionnel": {
+    "icon": "🏛️",
+    "color": "#ED2939",
+    "bg": "#FEF2F2",
+    "points": [
+      "<strong>Président de la République</strong> = chef de l'État, élu pour <strong>5 ans</strong>",
+      "<strong>Premier ministre</strong> nommé par le Président",
+      "Parlement = <strong>Assemblée nationale</strong> + <strong>Sénat</strong>",
+      "Constitution de la <strong>Ve République : 1958</strong>",
+      "<strong>Conseil constitutionnel</strong> vérifie la conformité des lois",
+      "<strong>13 régions</strong> métropolitaines",
+      "Parlement européen à <strong>Strasbourg</strong>",
+      "Euro adopté en espèces en <strong>2002</strong>"
+    ]
+  },
+  "Droits et devoirs": {
+    "icon": "⚖️",
+    "color": "#0B7A4F",
+    "bg": "#E8F8F2",
+    "points": [
+      "Droit de vote à <strong>18 ans</strong>",
+      "Toute <strong>discrimination</strong> est illégale (origine, sexe, religion...)",
+      "<strong>Défenseur des droits</strong> = protection contre les discriminations",
+      "Payer ses <strong>impôts</strong> = obligation légale",
+      "École obligatoire jusqu'à <strong>16 ans</strong>",
+      "<strong>Présomption d'innocence</strong> : innocent jusqu'à preuve contraire",
+      "<strong>Droit de grève</strong> = droit constitutionnel",
+      "<strong>Droit d'asile</strong> = protection des personnes persécutées"
+    ]
+  },
+  "Histoire et culture": {
+    "icon": "📚",
+    "color": "#7C4A1E",
+    "bg": "#FDF5ED",
+    "points": [
+      "Révolution française : <strong>1789</strong>",
+      "De Gaulle (1940) : <em>«La France a perdu une bataille mais pas la guerre»</em>",
+      "2e Guerre mondiale : fin en <strong>1945</strong>",
+      "<strong>Jeanne d'Arc</strong> : héroïne du XVe siècle",
+      "La <strong>Seine</strong> traverse Paris — La <strong>Loire</strong> = plus long fleuve",
+      "<strong>Pyrénées</strong> = frontière Espagne, <strong>Alpes</strong> = frontière Italie/Suisse",
+      "Tour Eiffel construite en <strong>1889</strong>",
+      "Dernier État entré dans l'UE : <strong>Croatie (2013)</strong>"
+    ]
+  },
+  "Vivre en société": {
+    "icon": "🤝",
+    "color": "#4A1D8A",
+    "bg": "#F3EEFF",
+    "points": [
+      "<strong>SMIC</strong> = Salaire Minimum Interprofessionnel de Croissance",
+      "<strong>CAF</strong> = Caisse d'Allocations Familiales",
+      "<strong>France Travail</strong> = aide aux demandeurs d'emploi",
+      "<strong>Secret médical</strong> = le médecin ne peut divulguer votre état de santé",
+      "<strong>Garantie légale de conformité</strong> = protection acheteur en cas de panne",
+      "<strong>Autorité parentale</strong> = aux deux parents, même séparés",
+      "Travail possible dès <strong>15 ans</strong> avec accord parental",
+      "<strong>PACS</strong> = Pacte Civil de Solidarité entre deux personnes"
+    ]
+  }
+}

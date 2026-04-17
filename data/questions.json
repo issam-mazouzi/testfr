@@ -1,0 +1,2427 @@
+{
+  "civique": {
+    "nat": [
+      {
+        "id": 1,
+        "cat": "Principes et valeurs",
+        "q": "Quelle est la devise de la République française ?",
+        "opts": [
+          "Travail, Famille, Patrie",
+          "Liberté, Égalité, Fraternité",
+          "Unité, Force, Justice",
+          "Honneur, Patrie, Valeur"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 2,
+        "cat": "Principes et valeurs",
+        "q": "Quelles sont les couleurs du drapeau français ?",
+        "opts": [
+          "Rouge, Blanc, Vert",
+          "Bleu, Blanc, Rouge",
+          "Noir, Jaune, Rouge",
+          "Bleu, Rouge, Jaune"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 3,
+        "cat": "Principes et valeurs",
+        "q": "Quel est l'hymne national français ?",
+        "opts": [
+          "La Marseillaise",
+          "Le Chant des Partisans",
+          "L'Internationale",
+          "La Brabançonne"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 4,
+        "cat": "Principes et valeurs",
+        "q": "Quel est le symbole de la République française ?",
+        "opts": [
+          "Napoléon Bonaparte",
+          "Le coq gaulois",
+          "Marianne",
+          "La Tour Eiffel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 5,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que la laïcité en France ?",
+        "opts": [
+          "L'interdiction de toute religion",
+          "La séparation des Églises et de l'État",
+          "La religion d'État obligatoire",
+          "Le financement public des cultes"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 6,
+        "cat": "Principes et valeurs",
+        "q": "Depuis quelle année la laïcité est-elle inscrite dans la Constitution française ?",
+        "opts": [
+          "1789",
+          "1905",
+          "1946",
+          "1958"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 7,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+        "opts": [
+          "La croix de Lorraine",
+          "Le coq",
+          "Marianne",
+          "La fleur de lys"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 8,
+        "cat": "Principes et valeurs",
+        "q": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "opts": [
+          "Le racisme",
+          "L'antisémitisme",
+          "La xénophobie",
+          "L'islamophobie"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 9,
+        "cat": "Principes et valeurs",
+        "q": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+        "opts": [
+          "La Constitution de 1958",
+          "La loi de 1905 sur la séparation des Églises et de l'État",
+          "La Déclaration des droits de l'homme de 1789",
+          "La loi Ferry de 1882"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 10,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "opts": [
+          "Une croix ostensible",
+          "Un voile islamique",
+          "Un petit signe discret",
+          "Une kippa"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 11,
+        "cat": "Principes et valeurs",
+        "q": "A-t-on le droit d'insulter publiquement quelqu'un à cause de son origine ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est interdit par la loi",
+          "Oui si c'est dans un cadre privé",
+          "Non seulement à l'école"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 12,
+        "cat": "Principes et valeurs",
+        "q": "La France est une République... Complétez la phrase de la Constitution.",
+        "opts": [
+          "unitaire, libérale, démocratique et sociale",
+          "indivisible, laïque, démocratique et sociale",
+          "fédérale, laïque, démocratique et sociale",
+          "indivisible, religieuse, démocratique et sociale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 13,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que le 14 juillet commémore en France ?",
+        "opts": [
+          "La fin de la Première Guerre mondiale",
+          "La prise de la Bastille en 1789",
+          "La proclamation de la République",
+          "La Déclaration des droits de l'homme"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 14,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce qui est traditionnellement organisé sur les Champs-Élysées le 14 juillet ?",
+        "opts": [
+          "Un concert de musique classique",
+          "Un défilé militaire",
+          "Une course cycliste",
+          "Un feu d'artifice"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 15,
+        "cat": "Principes et valeurs",
+        "q": "Peut-on brûler publiquement un drapeau français ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est un délit",
+          "Oui si c'est à l'étranger",
+          "Oui si c'est lors d'une manifestation"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 16,
+        "cat": "Système institutionnel",
+        "q": "Qui est le chef de l'État en France ?",
+        "opts": [
+          "Le Premier ministre",
+          "Le Président de la République",
+          "Le Président du Sénat",
+          "Le Président de l'Assemblée nationale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 17,
+        "cat": "Système institutionnel",
+        "q": "De quand date la Constitution de la Ve République ?",
+        "opts": [
+          "1789",
+          "1946",
+          "1958",
+          "1981"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 18,
+        "cat": "Système institutionnel",
+        "q": "Combien de chambres compose le Parlement français ?",
+        "opts": [
+          "Une seule",
+          "Deux",
+          "Trois",
+          "Quatre"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 19,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre haute du Parlement français ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Conseil d'État",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 20,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre basse du Parlement français ?",
+        "opts": [
+          "Le Sénat",
+          "Le Conseil d'État",
+          "L'Assemblée nationale",
+          "La Cour de cassation"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 21,
+        "cat": "Système institutionnel",
+        "q": "Qui nomme le Premier ministre en France ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Président de la République",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 22,
+        "cat": "Système institutionnel",
+        "q": "Quelle institution vérifie la constitutionnalité des lois ?",
+        "opts": [
+          "Le Conseil d'État",
+          "La Cour de cassation",
+          "Le Conseil constitutionnel",
+          "La Cour des comptes"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 23,
+        "cat": "Système institutionnel",
+        "q": "Combien de régions métropolitaines compte la France ?",
+        "opts": [
+          "13",
+          "18",
+          "22",
+          "27"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 24,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la durée du mandat présidentiel en France ?",
+        "opts": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 25,
+        "cat": "Système institutionnel",
+        "q": "Qui élit le Président de la République française ?",
+        "opts": [
+          "Le Parlement",
+          "Les maires",
+          "Les citoyens français au suffrage universel direct",
+          "Le Sénat"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 26,
+        "cat": "Système institutionnel",
+        "q": "Qu'est-ce que le Conseil d'État ?",
+        "opts": [
+          "La plus haute juridiction administrative",
+          "La plus haute juridiction judiciaire",
+          "Un organe législatif",
+          "Un conseil des ministres élargi"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 27,
+        "cat": "Système institutionnel",
+        "q": "Combien de membres compte le Conseil constitutionnel ?",
+        "opts": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 28,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la capitale de la France ?",
+        "opts": [
+          "Lyon",
+          "Marseille",
+          "Paris",
+          "Bordeaux"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 29,
+        "cat": "Système institutionnel",
+        "q": "Quel est le siège du Parlement européen ?",
+        "opts": [
+          "Bruxelles",
+          "Luxembourg",
+          "Strasbourg",
+          "Genève"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 30,
+        "cat": "Système institutionnel",
+        "q": "En quelle année la France a-t-elle adopté l'euro ?",
+        "opts": [
+          "1995",
+          "1999 (en valeur)",
+          "2002 (en espèces)",
+          "2004"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 31,
+        "cat": "Droits et devoirs",
+        "q": "À quel âge peut-on voter en France ?",
+        "opts": [
+          "16 ans",
+          "18 ans",
+          "21 ans",
+          "25 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 32,
+        "cat": "Droits et devoirs",
+        "q": "Certains métiers peuvent-ils être réservés aux hommes en France ?",
+        "opts": [
+          "Oui, pour les métiers à risque",
+          "Oui, dans l'armée",
+          "Non, c'est interdit par la loi",
+          "Oui, dans la fonction publique"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 33,
+        "cat": "Droits et devoirs",
+        "q": "Que fait l'État pour lutter contre les discriminations ?",
+        "opts": [
+          "Rien, c'est une affaire privée",
+          "Il dispose de lois et d'autorités indépendantes comme le Défenseur des droits",
+          "Il délègue aux associations",
+          "Il sanctionne uniquement les employeurs"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 34,
+        "cat": "Droits et devoirs",
+        "q": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+        "opts": [
+          "C'est autorisé s'il a de bonnes raisons",
+          "C'est une discrimination illégale",
+          "C'est autorisé dans certains secteurs",
+          "C'est autorisé si l'entreprise est petite"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 35,
+        "cat": "Droits et devoirs",
+        "q": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "opts": [
+          "Seuls les riches paient des impôts",
+          "Payer ses impôts est une obligation légale pour tous les contribuables",
+          "Les impôts sont facultatifs",
+          "Seules les entreprises paient des impôts"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 36,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que le droit d'asile ?",
+        "opts": [
+          "Le droit de voyager librement en Europe",
+          "La protection accordée par un État à une personne persécutée dans son pays",
+          "Le droit de résider dans n'importe quel pays de l'UE",
+          "Un titre de séjour temporaire"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 37,
+        "cat": "Droits et devoirs",
+        "q": "En France, l'école est obligatoire jusqu'à quel âge ?",
+        "opts": [
+          "14 ans",
+          "16 ans",
+          "18 ans",
+          "20 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 38,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la Sécurité sociale en France ?",
+        "opts": [
+          "Un système d'épargne privé",
+          "Un système de protection sociale qui couvre maladie, retraite, famille",
+          "Une assurance privée facultative",
+          "Un fonds de chômage uniquement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 39,
+        "cat": "Droits et devoirs",
+        "q": "Le droit de grève est-il reconnu en France ?",
+        "opts": [
+          "Non, il est interdit",
+          "Oui, c'est un droit constitutionnel",
+          "Oui, mais seulement dans le secteur privé",
+          "Oui, mais seulement dans la fonction publique"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 40,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la présomption d'innocence ?",
+        "opts": [
+          "Tout accusé est considéré coupable jusqu'à preuve du contraire",
+          "Tout accusé est considéré innocent jusqu'à ce que sa culpabilité soit établie",
+          "Le droit de garder le silence",
+          "Le droit à un avocat commis d'office"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 41,
+        "cat": "Histoire et culture",
+        "q": "En quelle année a eu lieu la Révolution française ?",
+        "opts": [
+          "1689",
+          "1789",
+          "1799",
+          "1815"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 42,
+        "cat": "Histoire et culture",
+        "q": "Qui a dit 'La France a perdu une bataille mais n'a pas perdu la guerre' ?",
+        "opts": [
+          "Philippe Pétain",
+          "Charles de Gaulle",
+          "Georges Clemenceau",
+          "Léon Blum"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 43,
+        "cat": "Histoire et culture",
+        "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+        "opts": [
+          "1943",
+          "1944",
+          "1945",
+          "1946"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 44,
+        "cat": "Histoire et culture",
+        "q": "Qui était Jeanne d'Arc ?",
+        "opts": [
+          "Une reine de France",
+          "Une héroïne qui a combattu pour la France au XVe siècle",
+          "Une philosophe des Lumières",
+          "La première femme élue au Parlement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 45,
+        "cat": "Histoire et culture",
+        "q": "Quel fleuve traverse Paris ?",
+        "opts": [
+          "La Loire",
+          "Le Rhône",
+          "La Seine",
+          "La Garonne"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 46,
+        "cat": "Histoire et culture",
+        "q": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+        "opts": [
+          "Les Alpes",
+          "Le Massif central",
+          "Les Vosges",
+          "Les Pyrénées"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 47,
+        "cat": "Histoire et culture",
+        "q": "Quel est le plus long fleuve de France ?",
+        "opts": [
+          "La Seine",
+          "La Garonne",
+          "La Loire",
+          "Le Rhône"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 48,
+        "cat": "Histoire et culture",
+        "q": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "opts": [
+          "Le Rouge et le Noir",
+          "Les Misérables",
+          "Madame Bovary",
+          "Germinal"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 49,
+        "cat": "Histoire et culture",
+        "q": "Qui a peint La Joconde ?",
+        "opts": [
+          "Michel-Ange",
+          "Raphaël",
+          "Léonard de Vinci",
+          "Botticelli"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 50,
+        "cat": "Histoire et culture",
+        "q": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+        "opts": [
+          "1789",
+          "1855",
+          "1889",
+          "1900"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 51,
+        "cat": "Histoire et culture",
+        "q": "Quel est le dernier État à avoir intégré l'Union européenne ?",
+        "opts": [
+          "La Roumanie",
+          "La Bulgarie",
+          "La Croatie",
+          "La Slovénie"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 52,
+        "cat": "Histoire et culture",
+        "q": "Qui était Napoléon Bonaparte ?",
+        "opts": [
+          "Un roi de France",
+          "Un général et homme d'État qui fut Empereur des Français",
+          "Un révolutionnaire républicain",
+          "Un philosophe des Lumières"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 53,
+        "cat": "Histoire et culture",
+        "q": "Quel événement commémore le 11 novembre en France ?",
+        "opts": [
+          "La Révolution française",
+          "L'armistice de la Première Guerre mondiale",
+          "La Libération de Paris",
+          "La fin de la Seconde Guerre mondiale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 54,
+        "cat": "Histoire et culture",
+        "q": "Qui a fondé la Ve République ?",
+        "opts": [
+          "François Mitterrand",
+          "Georges Pompidou",
+          "Charles de Gaulle",
+          "Valéry Giscard d'Estaing"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 55,
+        "cat": "Histoire et culture",
+        "q": "Quelle est la plus grande ville de France ?",
+        "opts": [
+          "Marseille",
+          "Lyon",
+          "Paris",
+          "Toulouse"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 56,
+        "cat": "Vivre en société",
+        "q": "Qui peut être appelé à faire partie d'un jury d'assises ?",
+        "opts": [
+          "Uniquement des juristes",
+          "Uniquement des fonctionnaires",
+          "Tout citoyen français majeur tiré au sort",
+          "Uniquement des retraités"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 57,
+        "cat": "Vivre en société",
+        "q": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+        "opts": [
+          "Oui, c'est un droit parental",
+          "Non, la mixité est obligatoire à l'école publique",
+          "Oui si l'enfant a moins de 10 ans",
+          "Non seulement pour les filles"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 58,
+        "cat": "Vivre en société",
+        "q": "Que signifie SMIC ?",
+        "opts": [
+          "Salaire Minimum Interprofessionnel de Croissance",
+          "Salaire Moyen Industriel et Commercial",
+          "Système de Minimum d'Intégration et de Cotisation",
+          "Salaire Mensuel d'Insertion et de Cohésion"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 59,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que la CAF ?",
+        "opts": [
+          "La Caisse d'Assurance Familiale",
+          "La Caisse d'Allocations Familiales",
+          "Le Centre d'Aide aux Familles",
+          "La Cotisation d'Affiliation Familiale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 60,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que Pôle Emploi (France Travail) ?",
+        "opts": [
+          "Un syndicat de salariés",
+          "Un service public pour les demandeurs d'emploi",
+          "Une agence privée de placement",
+          "Un organisme de formation professionnelle"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 61,
+        "cat": "Vivre en société",
+        "q": "Que faire si votre propriétaire refuse de rendre votre dépôt de garantie sans raison valable ?",
+        "opts": [
+          "Accepter la situation",
+          "Saisir la commission de conciliation ou le tribunal",
+          "Occuper le logement",
+          "Contacter la mairie"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 62,
+        "cat": "Vivre en société",
+        "q": "Votre machine à laver tombe en panne peu après l'achat. Que pouvez-vous faire ?",
+        "opts": [
+          "Rien, c'est votre problème",
+          "Invoquer la garantie légale de conformité",
+          "Acheter une nouvelle machine",
+          "Contacter le fabricant directement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 63,
+        "cat": "Vivre en société",
+        "q": "Un médecin peut-il révéler des informations sur votre état de santé à votre employeur ?",
+        "opts": [
+          "Oui, si l'employeur le demande",
+          "Non, le secret médical l'interdit",
+          "Oui avec votre accord écrit",
+          "Oui pour les maladies graves"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 64,
+        "cat": "Vivre en société",
+        "q": "Peut-on stationner sur une place réservée aux personnes handicapées sans autorisation ?",
+        "opts": [
+          "Oui si c'est pour quelques minutes",
+          "Non, c'est une infraction passible d'amende",
+          "Oui la nuit",
+          "Oui si la place est libre depuis longtemps"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 65,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que le droit de vote par procuration ?",
+        "opts": [
+          "Voter plusieurs fois",
+          "Donner à une autre personne le droit de voter à sa place",
+          "Voter par correspondance",
+          "Voter en ligne"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 66,
+        "cat": "Vivre en société",
+        "q": "En France, les médicaments sur ordonnance peuvent-ils être vendus sans ordonnance ?",
+        "opts": [
+          "Oui, dans toutes les pharmacies",
+          "Non, une ordonnance médicale est obligatoire",
+          "Oui si c'est un médicament courant",
+          "Oui en cas d'urgence"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 67,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que la contraception d'urgence ?",
+        "opts": [
+          "Un médicament abortif",
+          "Un moyen de contraception à utiliser après un rapport non protégé",
+          "Un contraceptif quotidien",
+          "Une méthode chirurgicale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 68,
+        "cat": "Vivre en société",
+        "q": "L'autorité parentale appartient-elle aux deux parents en cas de séparation ?",
+        "opts": [
+          "Non, uniquement à la mère",
+          "Non, uniquement au parent gardien",
+          "Oui, en principe aux deux parents",
+          "Non, le juge désigne un seul parent"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 69,
+        "cat": "Vivre en société",
+        "q": "À quel âge un jeune peut-il travailler en France avec l'accord de ses parents ?",
+        "opts": [
+          "14 ans",
+          "15 ans",
+          "16 ans",
+          "18 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 70,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que le PACS ?",
+        "opts": [
+          "Un contrat de travail spécial",
+          "Un pacte civil de solidarité entre deux personnes",
+          "Un système d'épargne retraite",
+          "Un permis de construire simplifié"
+        ],
+        "ans": 1
+      }
+    ],
+    "csp": [
+      {
+        "id": 1,
+        "cat": "Principes et valeurs",
+        "q": "Quelle est la devise de la République française ?",
+        "opts": [
+          "Travail, Famille, Patrie",
+          "Liberté, Égalité, Fraternité",
+          "Unité, Force, Justice",
+          "Honneur, Patrie, Valeur"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 2,
+        "cat": "Principes et valeurs",
+        "q": "Quelles sont les couleurs du drapeau français ?",
+        "opts": [
+          "Rouge, Blanc, Vert",
+          "Bleu, Blanc, Rouge",
+          "Noir, Jaune, Rouge",
+          "Bleu, Rouge, Jaune"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 3,
+        "cat": "Principes et valeurs",
+        "q": "Quel est l'hymne national français ?",
+        "opts": [
+          "La Marseillaise",
+          "Le Chant des Partisans",
+          "L'Internationale",
+          "La Brabançonne"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 4,
+        "cat": "Principes et valeurs",
+        "q": "Quel est le symbole de la République française ?",
+        "opts": [
+          "Napoléon Bonaparte",
+          "Le coq gaulois",
+          "Marianne",
+          "La Tour Eiffel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 5,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que la laïcité en France ?",
+        "opts": [
+          "L'interdiction de toute religion",
+          "La séparation des Églises et de l'État",
+          "La religion d'État obligatoire",
+          "Le financement public des cultes"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 6,
+        "cat": "Principes et valeurs",
+        "q": "Depuis quelle année la laïcité est-elle inscrite dans la Constitution française ?",
+        "opts": [
+          "1789",
+          "1905",
+          "1946",
+          "1958"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 7,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+        "opts": [
+          "La croix de Lorraine",
+          "Le coq",
+          "Marianne",
+          "La fleur de lys"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 8,
+        "cat": "Principes et valeurs",
+        "q": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "opts": [
+          "Le racisme",
+          "L'antisémitisme",
+          "La xénophobie",
+          "L'islamophobie"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 9,
+        "cat": "Principes et valeurs",
+        "q": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+        "opts": [
+          "La Constitution de 1958",
+          "La loi de 1905 sur la séparation des Églises et de l'État",
+          "La Déclaration des droits de l'homme de 1789",
+          "La loi Ferry de 1882"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 10,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "opts": [
+          "Une croix ostensible",
+          "Un voile islamique",
+          "Un petit signe discret",
+          "Une kippa"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 11,
+        "cat": "Principes et valeurs",
+        "q": "A-t-on le droit d'insulter publiquement quelqu'un à cause de son origine ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est interdit par la loi",
+          "Oui si c'est dans un cadre privé",
+          "Non seulement à l'école"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 12,
+        "cat": "Principes et valeurs",
+        "q": "La France est une République... Complétez la phrase de la Constitution.",
+        "opts": [
+          "unitaire, libérale, démocratique et sociale",
+          "indivisible, laïque, démocratique et sociale",
+          "fédérale, laïque, démocratique et sociale",
+          "indivisible, religieuse, démocratique et sociale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 13,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que le 14 juillet commémore en France ?",
+        "opts": [
+          "La fin de la Première Guerre mondiale",
+          "La prise de la Bastille en 1789",
+          "La proclamation de la République",
+          "La Déclaration des droits de l'homme"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 14,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce qui est traditionnellement organisé sur les Champs-Élysées le 14 juillet ?",
+        "opts": [
+          "Un concert de musique classique",
+          "Un défilé militaire",
+          "Une course cycliste",
+          "Un feu d'artifice"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 15,
+        "cat": "Principes et valeurs",
+        "q": "Peut-on brûler publiquement un drapeau français ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est un délit",
+          "Oui si c'est à l'étranger",
+          "Oui si c'est lors d'une manifestation"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 16,
+        "cat": "Système institutionnel",
+        "q": "Qui est le chef de l'État en France ?",
+        "opts": [
+          "Le Premier ministre",
+          "Le Président de la République",
+          "Le Président du Sénat",
+          "Le Président de l'Assemblée nationale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 17,
+        "cat": "Système institutionnel",
+        "q": "De quand date la Constitution de la Ve République ?",
+        "opts": [
+          "1789",
+          "1946",
+          "1958",
+          "1981"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 18,
+        "cat": "Système institutionnel",
+        "q": "Combien de chambres compose le Parlement français ?",
+        "opts": [
+          "Une seule",
+          "Deux",
+          "Trois",
+          "Quatre"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 19,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre haute du Parlement français ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Conseil d'État",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 20,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre basse du Parlement français ?",
+        "opts": [
+          "Le Sénat",
+          "Le Conseil d'État",
+          "L'Assemblée nationale",
+          "La Cour de cassation"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 21,
+        "cat": "Système institutionnel",
+        "q": "Qui nomme le Premier ministre en France ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Président de la République",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 22,
+        "cat": "Système institutionnel",
+        "q": "Quelle institution vérifie la constitutionnalité des lois ?",
+        "opts": [
+          "Le Conseil d'État",
+          "La Cour de cassation",
+          "Le Conseil constitutionnel",
+          "La Cour des comptes"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 23,
+        "cat": "Système institutionnel",
+        "q": "Combien de régions métropolitaines compte la France ?",
+        "opts": [
+          "13",
+          "18",
+          "22",
+          "27"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 24,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la durée du mandat présidentiel en France ?",
+        "opts": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 25,
+        "cat": "Système institutionnel",
+        "q": "Qui élit le Président de la République française ?",
+        "opts": [
+          "Le Parlement",
+          "Les maires",
+          "Les citoyens français au suffrage universel direct",
+          "Le Sénat"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 26,
+        "cat": "Système institutionnel",
+        "q": "Qu'est-ce que le Conseil d'État ?",
+        "opts": [
+          "La plus haute juridiction administrative",
+          "La plus haute juridiction judiciaire",
+          "Un organe législatif",
+          "Un conseil des ministres élargi"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 27,
+        "cat": "Système institutionnel",
+        "q": "Combien de membres compte le Conseil constitutionnel ?",
+        "opts": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 28,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la capitale de la France ?",
+        "opts": [
+          "Lyon",
+          "Marseille",
+          "Paris",
+          "Bordeaux"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 29,
+        "cat": "Système institutionnel",
+        "q": "Quel est le siège du Parlement européen ?",
+        "opts": [
+          "Bruxelles",
+          "Luxembourg",
+          "Strasbourg",
+          "Genève"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 30,
+        "cat": "Système institutionnel",
+        "q": "En quelle année la France a-t-elle adopté l'euro ?",
+        "opts": [
+          "1995",
+          "1999 (en valeur)",
+          "2002 (en espèces)",
+          "2004"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 31,
+        "cat": "Droits et devoirs",
+        "q": "À quel âge peut-on voter en France ?",
+        "opts": [
+          "16 ans",
+          "18 ans",
+          "21 ans",
+          "25 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 32,
+        "cat": "Droits et devoirs",
+        "q": "Certains métiers peuvent-ils être réservés aux hommes en France ?",
+        "opts": [
+          "Oui, pour les métiers à risque",
+          "Oui, dans l'armée",
+          "Non, c'est interdit par la loi",
+          "Oui, dans la fonction publique"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 33,
+        "cat": "Droits et devoirs",
+        "q": "Que fait l'État pour lutter contre les discriminations ?",
+        "opts": [
+          "Rien, c'est une affaire privée",
+          "Il dispose de lois et d'autorités indépendantes comme le Défenseur des droits",
+          "Il délègue aux associations",
+          "Il sanctionne uniquement les employeurs"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 34,
+        "cat": "Droits et devoirs",
+        "q": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+        "opts": [
+          "C'est autorisé s'il a de bonnes raisons",
+          "C'est une discrimination illégale",
+          "C'est autorisé dans certains secteurs",
+          "C'est autorisé si l'entreprise est petite"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 35,
+        "cat": "Droits et devoirs",
+        "q": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "opts": [
+          "Seuls les riches paient des impôts",
+          "Payer ses impôts est une obligation légale pour tous les contribuables",
+          "Les impôts sont facultatifs",
+          "Seules les entreprises paient des impôts"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 36,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que le droit d'asile ?",
+        "opts": [
+          "Le droit de voyager librement en Europe",
+          "La protection accordée par un État à une personne persécutée dans son pays",
+          "Le droit de résider dans n'importe quel pays de l'UE",
+          "Un titre de séjour temporaire"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 37,
+        "cat": "Droits et devoirs",
+        "q": "En France, l'école est obligatoire jusqu'à quel âge ?",
+        "opts": [
+          "14 ans",
+          "16 ans",
+          "18 ans",
+          "20 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 38,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la Sécurité sociale en France ?",
+        "opts": [
+          "Un système d'épargne privé",
+          "Un système de protection sociale qui couvre maladie, retraite, famille",
+          "Une assurance privée facultative",
+          "Un fonds de chômage uniquement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 39,
+        "cat": "Droits et devoirs",
+        "q": "Le droit de grève est-il reconnu en France ?",
+        "opts": [
+          "Non, il est interdit",
+          "Oui, c'est un droit constitutionnel",
+          "Oui, mais seulement dans le secteur privé",
+          "Oui, mais seulement dans la fonction publique"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 40,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la présomption d'innocence ?",
+        "opts": [
+          "Tout accusé est considéré coupable jusqu'à preuve du contraire",
+          "Tout accusé est considéré innocent jusqu'à ce que sa culpabilité soit établie",
+          "Le droit de garder le silence",
+          "Le droit à un avocat commis d'office"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 41,
+        "cat": "Histoire et culture",
+        "q": "En quelle année a eu lieu la Révolution française ?",
+        "opts": [
+          "1689",
+          "1789",
+          "1799",
+          "1815"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 42,
+        "cat": "Histoire et culture",
+        "q": "Qui a dit 'La France a perdu une bataille mais n'a pas perdu la guerre' ?",
+        "opts": [
+          "Philippe Pétain",
+          "Charles de Gaulle",
+          "Georges Clemenceau",
+          "Léon Blum"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 43,
+        "cat": "Histoire et culture",
+        "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+        "opts": [
+          "1943",
+          "1944",
+          "1945",
+          "1946"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 44,
+        "cat": "Histoire et culture",
+        "q": "Qui était Jeanne d'Arc ?",
+        "opts": [
+          "Une reine de France",
+          "Une héroïne qui a combattu pour la France au XVe siècle",
+          "Une philosophe des Lumières",
+          "La première femme élue au Parlement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 45,
+        "cat": "Histoire et culture",
+        "q": "Quel fleuve traverse Paris ?",
+        "opts": [
+          "La Loire",
+          "Le Rhône",
+          "La Seine",
+          "La Garonne"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 46,
+        "cat": "Histoire et culture",
+        "q": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+        "opts": [
+          "Les Alpes",
+          "Le Massif central",
+          "Les Vosges",
+          "Les Pyrénées"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 47,
+        "cat": "Histoire et culture",
+        "q": "Quel est le plus long fleuve de France ?",
+        "opts": [
+          "La Seine",
+          "La Garonne",
+          "La Loire",
+          "Le Rhône"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 48,
+        "cat": "Histoire et culture",
+        "q": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "opts": [
+          "Le Rouge et le Noir",
+          "Les Misérables",
+          "Madame Bovary",
+          "Germinal"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 49,
+        "cat": "Histoire et culture",
+        "q": "Qui a peint La Joconde ?",
+        "opts": [
+          "Michel-Ange",
+          "Raphaël",
+          "Léonard de Vinci",
+          "Botticelli"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 50,
+        "cat": "Histoire et culture",
+        "q": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+        "opts": [
+          "1789",
+          "1855",
+          "1889",
+          "1900"
+        ],
+        "ans": 2
+      }
+    ],
+    "cr": [
+      {
+        "id": 1,
+        "cat": "Principes et valeurs",
+        "q": "Quelle est la devise de la République française ?",
+        "opts": [
+          "Travail, Famille, Patrie",
+          "Liberté, Égalité, Fraternité",
+          "Unité, Force, Justice",
+          "Honneur, Patrie, Valeur"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 2,
+        "cat": "Principes et valeurs",
+        "q": "Quelles sont les couleurs du drapeau français ?",
+        "opts": [
+          "Rouge, Blanc, Vert",
+          "Bleu, Blanc, Rouge",
+          "Noir, Jaune, Rouge",
+          "Bleu, Rouge, Jaune"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 3,
+        "cat": "Principes et valeurs",
+        "q": "Quel est l'hymne national français ?",
+        "opts": [
+          "La Marseillaise",
+          "Le Chant des Partisans",
+          "L'Internationale",
+          "La Brabançonne"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 4,
+        "cat": "Principes et valeurs",
+        "q": "Quel est le symbole de la République française ?",
+        "opts": [
+          "Napoléon Bonaparte",
+          "Le coq gaulois",
+          "Marianne",
+          "La Tour Eiffel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 5,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que la laïcité en France ?",
+        "opts": [
+          "L'interdiction de toute religion",
+          "La séparation des Églises et de l'État",
+          "La religion d'État obligatoire",
+          "Le financement public des cultes"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 6,
+        "cat": "Principes et valeurs",
+        "q": "Depuis quelle année la laïcité est-elle inscrite dans la Constitution française ?",
+        "opts": [
+          "1789",
+          "1905",
+          "1946",
+          "1958"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 7,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+        "opts": [
+          "La croix de Lorraine",
+          "Le coq",
+          "Marianne",
+          "La fleur de lys"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 8,
+        "cat": "Principes et valeurs",
+        "q": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "opts": [
+          "Le racisme",
+          "L'antisémitisme",
+          "La xénophobie",
+          "L'islamophobie"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 9,
+        "cat": "Principes et valeurs",
+        "q": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+        "opts": [
+          "La Constitution de 1958",
+          "La loi de 1905 sur la séparation des Églises et de l'État",
+          "La Déclaration des droits de l'homme de 1789",
+          "La loi Ferry de 1882"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 10,
+        "cat": "Principes et valeurs",
+        "q": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "opts": [
+          "Une croix ostensible",
+          "Un voile islamique",
+          "Un petit signe discret",
+          "Une kippa"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 11,
+        "cat": "Principes et valeurs",
+        "q": "A-t-on le droit d'insulter publiquement quelqu'un à cause de son origine ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est interdit par la loi",
+          "Oui si c'est dans un cadre privé",
+          "Non seulement à l'école"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 12,
+        "cat": "Principes et valeurs",
+        "q": "La France est une République... Complétez la phrase de la Constitution.",
+        "opts": [
+          "unitaire, libérale, démocratique et sociale",
+          "indivisible, laïque, démocratique et sociale",
+          "fédérale, laïque, démocratique et sociale",
+          "indivisible, religieuse, démocratique et sociale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 13,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce que le 14 juillet commémore en France ?",
+        "opts": [
+          "La fin de la Première Guerre mondiale",
+          "La prise de la Bastille en 1789",
+          "La proclamation de la République",
+          "La Déclaration des droits de l'homme"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 14,
+        "cat": "Principes et valeurs",
+        "q": "Qu'est-ce qui est traditionnellement organisé sur les Champs-Élysées le 14 juillet ?",
+        "opts": [
+          "Un concert de musique classique",
+          "Un défilé militaire",
+          "Une course cycliste",
+          "Un feu d'artifice"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 15,
+        "cat": "Principes et valeurs",
+        "q": "Peut-on brûler publiquement un drapeau français ?",
+        "opts": [
+          "Oui, c'est la liberté d'expression",
+          "Non, c'est un délit",
+          "Oui si c'est à l'étranger",
+          "Oui si c'est lors d'une manifestation"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 16,
+        "cat": "Système institutionnel",
+        "q": "Qui est le chef de l'État en France ?",
+        "opts": [
+          "Le Premier ministre",
+          "Le Président de la République",
+          "Le Président du Sénat",
+          "Le Président de l'Assemblée nationale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 17,
+        "cat": "Système institutionnel",
+        "q": "De quand date la Constitution de la Ve République ?",
+        "opts": [
+          "1789",
+          "1946",
+          "1958",
+          "1981"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 18,
+        "cat": "Système institutionnel",
+        "q": "Combien de chambres compose le Parlement français ?",
+        "opts": [
+          "Une seule",
+          "Deux",
+          "Trois",
+          "Quatre"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 19,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre haute du Parlement français ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Conseil d'État",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 20,
+        "cat": "Système institutionnel",
+        "q": "Comment s'appelle la chambre basse du Parlement français ?",
+        "opts": [
+          "Le Sénat",
+          "Le Conseil d'État",
+          "L'Assemblée nationale",
+          "La Cour de cassation"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 21,
+        "cat": "Système institutionnel",
+        "q": "Qui nomme le Premier ministre en France ?",
+        "opts": [
+          "L'Assemblée nationale",
+          "Le Sénat",
+          "Le Président de la République",
+          "Le Conseil constitutionnel"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 22,
+        "cat": "Système institutionnel",
+        "q": "Quelle institution vérifie la constitutionnalité des lois ?",
+        "opts": [
+          "Le Conseil d'État",
+          "La Cour de cassation",
+          "Le Conseil constitutionnel",
+          "La Cour des comptes"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 23,
+        "cat": "Système institutionnel",
+        "q": "Combien de régions métropolitaines compte la France ?",
+        "opts": [
+          "13",
+          "18",
+          "22",
+          "27"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 24,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la durée du mandat présidentiel en France ?",
+        "opts": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 25,
+        "cat": "Système institutionnel",
+        "q": "Qui élit le Président de la République française ?",
+        "opts": [
+          "Le Parlement",
+          "Les maires",
+          "Les citoyens français au suffrage universel direct",
+          "Le Sénat"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 26,
+        "cat": "Système institutionnel",
+        "q": "Qu'est-ce que le Conseil d'État ?",
+        "opts": [
+          "La plus haute juridiction administrative",
+          "La plus haute juridiction judiciaire",
+          "Un organe législatif",
+          "Un conseil des ministres élargi"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 27,
+        "cat": "Système institutionnel",
+        "q": "Combien de membres compte le Conseil constitutionnel ?",
+        "opts": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 28,
+        "cat": "Système institutionnel",
+        "q": "Quelle est la capitale de la France ?",
+        "opts": [
+          "Lyon",
+          "Marseille",
+          "Paris",
+          "Bordeaux"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 29,
+        "cat": "Système institutionnel",
+        "q": "Quel est le siège du Parlement européen ?",
+        "opts": [
+          "Bruxelles",
+          "Luxembourg",
+          "Strasbourg",
+          "Genève"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 30,
+        "cat": "Système institutionnel",
+        "q": "En quelle année la France a-t-elle adopté l'euro ?",
+        "opts": [
+          "1995",
+          "1999 (en valeur)",
+          "2002 (en espèces)",
+          "2004"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 31,
+        "cat": "Droits et devoirs",
+        "q": "À quel âge peut-on voter en France ?",
+        "opts": [
+          "16 ans",
+          "18 ans",
+          "21 ans",
+          "25 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 32,
+        "cat": "Droits et devoirs",
+        "q": "Certains métiers peuvent-ils être réservés aux hommes en France ?",
+        "opts": [
+          "Oui, pour les métiers à risque",
+          "Oui, dans l'armée",
+          "Non, c'est interdit par la loi",
+          "Oui, dans la fonction publique"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 33,
+        "cat": "Droits et devoirs",
+        "q": "Que fait l'État pour lutter contre les discriminations ?",
+        "opts": [
+          "Rien, c'est une affaire privée",
+          "Il dispose de lois et d'autorités indépendantes comme le Défenseur des droits",
+          "Il délègue aux associations",
+          "Il sanctionne uniquement les employeurs"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 34,
+        "cat": "Droits et devoirs",
+        "q": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+        "opts": [
+          "C'est autorisé s'il a de bonnes raisons",
+          "C'est une discrimination illégale",
+          "C'est autorisé dans certains secteurs",
+          "C'est autorisé si l'entreprise est petite"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 35,
+        "cat": "Droits et devoirs",
+        "q": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "opts": [
+          "Seuls les riches paient des impôts",
+          "Payer ses impôts est une obligation légale pour tous les contribuables",
+          "Les impôts sont facultatifs",
+          "Seules les entreprises paient des impôts"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 36,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que le droit d'asile ?",
+        "opts": [
+          "Le droit de voyager librement en Europe",
+          "La protection accordée par un État à une personne persécutée dans son pays",
+          "Le droit de résider dans n'importe quel pays de l'UE",
+          "Un titre de séjour temporaire"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 37,
+        "cat": "Droits et devoirs",
+        "q": "En France, l'école est obligatoire jusqu'à quel âge ?",
+        "opts": [
+          "14 ans",
+          "16 ans",
+          "18 ans",
+          "20 ans"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 38,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la Sécurité sociale en France ?",
+        "opts": [
+          "Un système d'épargne privé",
+          "Un système de protection sociale qui couvre maladie, retraite, famille",
+          "Une assurance privée facultative",
+          "Un fonds de chômage uniquement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 39,
+        "cat": "Droits et devoirs",
+        "q": "Le droit de grève est-il reconnu en France ?",
+        "opts": [
+          "Non, il est interdit",
+          "Oui, c'est un droit constitutionnel",
+          "Oui, mais seulement dans le secteur privé",
+          "Oui, mais seulement dans la fonction publique"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 40,
+        "cat": "Droits et devoirs",
+        "q": "Qu'est-ce que la présomption d'innocence ?",
+        "opts": [
+          "Tout accusé est considéré coupable jusqu'à preuve du contraire",
+          "Tout accusé est considéré innocent jusqu'à ce que sa culpabilité soit établie",
+          "Le droit de garder le silence",
+          "Le droit à un avocat commis d'office"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 41,
+        "cat": "Histoire et culture",
+        "q": "En quelle année a eu lieu la Révolution française ?",
+        "opts": [
+          "1689",
+          "1789",
+          "1799",
+          "1815"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 42,
+        "cat": "Histoire et culture",
+        "q": "Qui a dit 'La France a perdu une bataille mais n'a pas perdu la guerre' ?",
+        "opts": [
+          "Philippe Pétain",
+          "Charles de Gaulle",
+          "Georges Clemenceau",
+          "Léon Blum"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 43,
+        "cat": "Histoire et culture",
+        "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+        "opts": [
+          "1943",
+          "1944",
+          "1945",
+          "1946"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 44,
+        "cat": "Histoire et culture",
+        "q": "Qui était Jeanne d'Arc ?",
+        "opts": [
+          "Une reine de France",
+          "Une héroïne qui a combattu pour la France au XVe siècle",
+          "Une philosophe des Lumières",
+          "La première femme élue au Parlement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 45,
+        "cat": "Histoire et culture",
+        "q": "Quel fleuve traverse Paris ?",
+        "opts": [
+          "La Loire",
+          "Le Rhône",
+          "La Seine",
+          "La Garonne"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 46,
+        "cat": "Histoire et culture",
+        "q": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+        "opts": [
+          "Les Alpes",
+          "Le Massif central",
+          "Les Vosges",
+          "Les Pyrénées"
+        ],
+        "ans": 3
+      },
+      {
+        "id": 47,
+        "cat": "Histoire et culture",
+        "q": "Quel est le plus long fleuve de France ?",
+        "opts": [
+          "La Seine",
+          "La Garonne",
+          "La Loire",
+          "Le Rhône"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 48,
+        "cat": "Histoire et culture",
+        "q": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "opts": [
+          "Le Rouge et le Noir",
+          "Les Misérables",
+          "Madame Bovary",
+          "Germinal"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 49,
+        "cat": "Histoire et culture",
+        "q": "Qui a peint La Joconde ?",
+        "opts": [
+          "Michel-Ange",
+          "Raphaël",
+          "Léonard de Vinci",
+          "Botticelli"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 50,
+        "cat": "Histoire et culture",
+        "q": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+        "opts": [
+          "1789",
+          "1855",
+          "1889",
+          "1900"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 51,
+        "cat": "Histoire et culture",
+        "q": "Quel est le dernier État à avoir intégré l'Union européenne ?",
+        "opts": [
+          "La Roumanie",
+          "La Bulgarie",
+          "La Croatie",
+          "La Slovénie"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 52,
+        "cat": "Histoire et culture",
+        "q": "Qui était Napoléon Bonaparte ?",
+        "opts": [
+          "Un roi de France",
+          "Un général et homme d'État qui fut Empereur des Français",
+          "Un révolutionnaire républicain",
+          "Un philosophe des Lumières"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 53,
+        "cat": "Histoire et culture",
+        "q": "Quel événement commémore le 11 novembre en France ?",
+        "opts": [
+          "La Révolution française",
+          "L'armistice de la Première Guerre mondiale",
+          "La Libération de Paris",
+          "La fin de la Seconde Guerre mondiale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 54,
+        "cat": "Histoire et culture",
+        "q": "Qui a fondé la Ve République ?",
+        "opts": [
+          "François Mitterrand",
+          "Georges Pompidou",
+          "Charles de Gaulle",
+          "Valéry Giscard d'Estaing"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 55,
+        "cat": "Histoire et culture",
+        "q": "Quelle est la plus grande ville de France ?",
+        "opts": [
+          "Marseille",
+          "Lyon",
+          "Paris",
+          "Toulouse"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 56,
+        "cat": "Vivre en société",
+        "q": "Qui peut être appelé à faire partie d'un jury d'assises ?",
+        "opts": [
+          "Uniquement des juristes",
+          "Uniquement des fonctionnaires",
+          "Tout citoyen français majeur tiré au sort",
+          "Uniquement des retraités"
+        ],
+        "ans": 2
+      },
+      {
+        "id": 57,
+        "cat": "Vivre en société",
+        "q": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+        "opts": [
+          "Oui, c'est un droit parental",
+          "Non, la mixité est obligatoire à l'école publique",
+          "Oui si l'enfant a moins de 10 ans",
+          "Non seulement pour les filles"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 58,
+        "cat": "Vivre en société",
+        "q": "Que signifie SMIC ?",
+        "opts": [
+          "Salaire Minimum Interprofessionnel de Croissance",
+          "Salaire Moyen Industriel et Commercial",
+          "Système de Minimum d'Intégration et de Cotisation",
+          "Salaire Mensuel d'Insertion et de Cohésion"
+        ],
+        "ans": 0
+      },
+      {
+        "id": 59,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que la CAF ?",
+        "opts": [
+          "La Caisse d'Assurance Familiale",
+          "La Caisse d'Allocations Familiales",
+          "Le Centre d'Aide aux Familles",
+          "La Cotisation d'Affiliation Familiale"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 60,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que Pôle Emploi (France Travail) ?",
+        "opts": [
+          "Un syndicat de salariés",
+          "Un service public pour les demandeurs d'emploi",
+          "Une agence privée de placement",
+          "Un organisme de formation professionnelle"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 61,
+        "cat": "Vivre en société",
+        "q": "Que faire si votre propriétaire refuse de rendre votre dépôt de garantie sans raison valable ?",
+        "opts": [
+          "Accepter la situation",
+          "Saisir la commission de conciliation ou le tribunal",
+          "Occuper le logement",
+          "Contacter la mairie"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 62,
+        "cat": "Vivre en société",
+        "q": "Votre machine à laver tombe en panne peu après l'achat. Que pouvez-vous faire ?",
+        "opts": [
+          "Rien, c'est votre problème",
+          "Invoquer la garantie légale de conformité",
+          "Acheter une nouvelle machine",
+          "Contacter le fabricant directement"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 63,
+        "cat": "Vivre en société",
+        "q": "Un médecin peut-il révéler des informations sur votre état de santé à votre employeur ?",
+        "opts": [
+          "Oui, si l'employeur le demande",
+          "Non, le secret médical l'interdit",
+          "Oui avec votre accord écrit",
+          "Oui pour les maladies graves"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 64,
+        "cat": "Vivre en société",
+        "q": "Peut-on stationner sur une place réservée aux personnes handicapées sans autorisation ?",
+        "opts": [
+          "Oui si c'est pour quelques minutes",
+          "Non, c'est une infraction passible d'amende",
+          "Oui la nuit",
+          "Oui si la place est libre depuis longtemps"
+        ],
+        "ans": 1
+      },
+      {
+        "id": 65,
+        "cat": "Vivre en société",
+        "q": "Qu'est-ce que le droit de vote par procuration ?",
+        "opts": [
+          "Voter plusieurs fois",
+          "Donner à une autre personne le droit de voter à sa place",
+          "Voter par correspondance",
+          "Voter en ligne"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "langue": [
+    {
+      "id": 101,
+      "type": "ecrit",
+      "niveau": "A2",
+      "cat": "Vie quotidienne",
+      "texte": "Annonce : Appartement à louer. 2 pièces, 45m². Charges comprises. Disponible le 1er mars. Contact : 06 12 34 56 78.",
+      "q": "Que comprend le loyer mentionné dans cette annonce ?",
+      "opts": [
+        "Seulement l'eau",
+        "Les charges",
+        "L'électricité uniquement",
+        "Rien de plus"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 102,
+      "type": "ecrit",
+      "niveau": "A2",
+      "cat": "Vie quotidienne",
+      "texte": "Avis de passage : Votre colis n'a pas pu être livré. Merci de vous présenter à la Poste avec une pièce d'identité avant le 15 du mois.",
+      "q": "Où faut-il aller pour récupérer le colis ?",
+      "opts": [
+        "Chez le voisin",
+        "Au bureau de Poste",
+        "À la mairie",
+        "À la préfecture"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 103,
+      "type": "ecrit",
+      "niveau": "B1",
+      "cat": "Démarches administratives",
+      "texte": "Convocation : Vous êtes convoqué(e) le 15 mars à 9h30 à la Préfecture de votre département pour un entretien dans le cadre de votre demande de naturalisation. Merci d'apporter tous vos documents originaux.",
+      "q": "Que faut-il apporter à cet entretien ?",
+      "opts": [
+        "Uniquement la convocation",
+        "Des photocopies",
+        "Tous les documents originaux",
+        "Rien, tout est déjà enregistré"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 104,
+      "type": "ecrit",
+      "niveau": "B1",
+      "cat": "Droits et société",
+      "texte": "La Sécurité sociale rembourse une partie des soins médicaux. Pour être remboursé, vous devez être affilié et présenter votre carte Vitale chez le médecin. Le taux de remboursement varie selon les actes.",
+      "q": "Que faut-il présenter chez le médecin pour être remboursé ?",
+      "opts": [
+        "Sa carte d'identité",
+        "Sa carte Vitale",
+        "Son passeport",
+        "Son titre de séjour"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 105,
+      "type": "ecrit",
+      "niveau": "B2",
+      "cat": "Institutions",
+      "texte": "Le Conseil constitutionnel veille à la conformité des lois avec la Constitution. Saisi par le Président de la République, le Premier ministre, ou 60 parlementaires, il peut déclarer une loi inconstitutionnelle avant sa promulgation.",
+      "q": "Qui peut saisir le Conseil constitutionnel selon ce texte ?",
+      "opts": [
+        "Tout citoyen français",
+        "Le Président, le Premier ministre ou 60 parlementaires",
+        "Uniquement le Président",
+        "Les maires des grandes villes"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 106,
+      "type": "ecrit",
+      "niveau": "B1",
+      "cat": "Travail",
+      "texte": "Offre d'emploi : CDI - Assistant(e) administratif(ve). Missions : accueil téléphonique, gestion du courrier, archivage. Salaire : SMIC. Horaires : 35h/semaine. CV + lettre de motivation à envoyer avant le 30 avril.",
+      "q": "Quel type de contrat propose cette offre ?",
+      "opts": [
+        "CDD",
+        "Stage",
+        "CDI",
+        "Intérim"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 107,
+      "type": "ecrit",
+      "niveau": "A2",
+      "cat": "Santé",
+      "texte": "Pharmacie du Centre — Horaires : Lundi-Vendredi 9h-19h, Samedi 9h-12h. Fermé dimanche et jours fériés. Pharmacie de garde le week-end : consulter le 15 ou le site www.pharmacie-garde.fr",
+      "q": "La pharmacie est-elle ouverte le dimanche ?",
+      "opts": [
+        "Oui, toute la journée",
+        "Oui, le matin",
+        "Non, sauf garde",
+        "Oui, en cas d'urgence"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 108,
+      "type": "ecrit",
+      "niveau": "B2",
+      "cat": "Société",
+      "texte": "La loi du 26 janvier 2024 renforce les exigences linguistiques pour l'obtention de certains titres de séjour et la naturalisation. Elle prévoit notamment le relèvement du niveau de français requis, désormais fixé à B2 pour la naturalisation à compter du 1er janvier 2026.",
+      "q": "Depuis quand le niveau B2 est-il exigé pour la naturalisation ?",
+      "opts": [
+        "Janvier 2024",
+        "Juillet 2025",
+        "Janvier 2026",
+        "Janvier 2027"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 201,
+      "type": "oral",
+      "niveau": "A2",
+      "cat": "Vie quotidienne",
+      "texte": "[Dialogue à la mairie]\nAgent : Bonjour, vous avez rendez-vous ?\nCitoyen : Oui, j'ai rendez-vous à 10h pour renouveler ma carte de séjour.\nAgent : Très bien. Vous avez vos documents ?\nCitoyen : Oui, j'ai tout apporté.\nAgent : Parfait, asseyez-vous, on vous appelle dans quelques minutes.",
+      "q": "Pourquoi cette personne vient-elle à la mairie ?",
+      "opts": [
+        "Pour une demande de passeport",
+        "Pour renouveler sa carte de séjour",
+        "Pour déclarer un changement d'adresse",
+        "Pour un extrait de naissance"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 202,
+      "type": "oral",
+      "niveau": "B1",
+      "cat": "Démarches",
+      "texte": "[Message sur répondeur]\nBonjour, vous avez appelé la Préfecture du Rhône. Nos bureaux sont ouverts du lundi au vendredi de 9h à 16h. Pour les demandes de naturalisation, merci de vous connecter sur le site ANEF. Pour toute urgence, laissez un message avec votre numéro de dossier.",
+      "q": "Comment doit-on effectuer une demande de naturalisation selon ce message ?",
+      "opts": [
+        "En venant directement à la Préfecture",
+        "En envoyant un courrier",
+        "Via le site ANEF",
+        "En laissant un message"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 203,
+      "type": "oral",
+      "niveau": "B1",
+      "cat": "Droits",
+      "texte": "[Extrait d'émission radio]\nJournaliste : Le droit de grève est un droit fondamental reconnu par la Constitution française. Il permet aux salariés de cesser le travail pour défendre leurs intérêts professionnels. Toutefois, dans certains services publics, un service minimum doit être maintenu.",
+      "q": "Qu'est-ce qui est obligatoire dans certains services publics lors d'une grève ?",
+      "opts": [
+        "L'annulation de la grève",
+        "Un service minimum",
+        "La présence de tous les employés",
+        "Un vote des salariés"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 204,
+      "type": "oral",
+      "niveau": "B2",
+      "cat": "Société",
+      "texte": "[Extrait de débat télévisé]\nIntervenante : La laïcité ne signifie pas l'absence de religion dans la société, mais bien la neutralité de l'État vis-à-vis des croyances. Chaque citoyen est libre de pratiquer sa religion dans la sphère privée, tandis que les institutions publiques restent neutres.",
+      "q": "Selon cette intervenante, que garantit la laïcité ?",
+      "opts": [
+        "L'interdiction des religions",
+        "La neutralité de l'État face aux croyances",
+        "L'obligation de se déclarer sans religion",
+        "L'égalité entre les religions"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 205,
+      "type": "oral",
+      "niveau": "A2",
+      "cat": "Vie pratique",
+      "texte": "[Annonce dans un bus]\nProchain arrêt : Hôtel de Ville. Correspondance avec les lignes 3, 7 et le métro. Les voyageurs souhaitant descendre sont priés de signaler leur arrêt à l'avance.",
+      "q": "Que doivent faire les passagers qui veulent descendre ?",
+      "opts": [
+        "Crier au chauffeur",
+        "Signaler leur arrêt à l'avance",
+        "Rien, le bus s'arrête automatiquement",
+        "Appuyer sur un bouton"
+      ],
+      "ans": 1
+    }
+  ]
+}
